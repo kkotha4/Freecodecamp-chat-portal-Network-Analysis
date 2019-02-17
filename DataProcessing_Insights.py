@@ -1,10 +1,5 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  4 11:42:38 2018
 
-@author: ajit
-"""
+
 
 ##################### DATA SOURCE #####################   
 # https://medium.freecodecamp.org/we-just-released-3-years-of-freecodecamp-chat-history-as-open-data-all-5-million-messages-of-it-a03901f4d6fb
@@ -12,7 +7,7 @@ Created on Fri May  4 11:42:38 2018
 
 
 import os
-os.chdir("/home/ajit/Documents/Network Analysis Project/data/all-posts-public-main-chatroom")
+os.chdir("/home/Documents/Network Analysis Project/data/all-posts-public-main-chatroom")
 
 import csv
 import json
